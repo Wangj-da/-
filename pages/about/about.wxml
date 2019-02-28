@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="about">
+  <text>产品名称：天气预报</text>
+  <text>版本号：{{v}}</text>
+  <text>数据来源：西风天气</text>
+  <text>开发时间：2019年2月</text>
+  </view>
+  <view class="about aboutme">
+    <text class="title">作者：王军达</text>
+    <text>网站：www.gwngjl.cn</text>
+    <text class="title">邮箱：wangj_da@sina.com</text>
+  </view>
+</view>
